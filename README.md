@@ -3,10 +3,6 @@
 [![Bimal's Leetcode Stats](https://leetcode.card.workers.dev/KumarBimal?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/u/KumarBimal/)
 ---
 
-## 📚 About This Repository  
-This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems from **LeetCode**. The goal is to consistently practice and enhance my coding skills by solving problems across various difficulty levels.  
-
----
 
 ## 🏆 My LeetCode Journey  
 Check out my **LeetCode profile** for more details:  
